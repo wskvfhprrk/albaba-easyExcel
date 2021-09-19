@@ -26,7 +26,7 @@ public class ReadTest {
     }
 
     /**
-     * xlsx普通测试
+     * xlsx普通测试——excelType中默认读取，如果需要读取xls或csv格式需要加excelType设置
      */
     @Test
     public void xlsxreadTest(){
